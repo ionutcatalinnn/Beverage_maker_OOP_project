@@ -1,0 +1,6 @@
+Espresso 50 30 0
+EspressoLung 100 40 0
+Cappuccino 50 20 30
+LatteMacchiato 50 20 50
+Apa 0 10 0
+Ceai 0 10 0
